@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{82C52861-5124-4312-A58A-A7F0F89F7891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestioneSagre.Business", "src\GestioneSagre.Business\GestioneSagre.Business.csproj", "{567E29F6-A6D3-4B15-94F8-86FA15B11500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{567E29F6-A6D3-4B15-94F8-86FA15B11500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567E29F6-A6D3-4B15-94F8-86FA15B11500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567E29F6-A6D3-4B15-94F8-86FA15B11500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567E29F6-A6D3-4B15-94F8-86FA15B11500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{567E29F6-A6D3-4B15-94F8-86FA15B11500} = {82C52861-5124-4312-A58A-A7F0F89F7891}
+	EndGlobalSection
+EndGlobal
